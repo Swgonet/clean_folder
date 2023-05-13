@@ -94,4 +94,4 @@ normalize(a)
 
 
 if __name__ == '__main__':
-    sort(a)
+    sort()
